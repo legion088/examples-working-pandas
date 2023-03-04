@@ -1,2 +1,3 @@
-# examples-working-pandas
-Examples of working with library pandas
+# Отрывки работ с библиотекой Pandas
+Файл `loop.py` - Разбор dataframe и получение значений колонок в цикле методом `.itertuples()` <br> 
+Файл `read_write` - Складываем в словарь dataframe-ы из каждого листа и записываем dataframe-ы в каждый лист.
